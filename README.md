@@ -41,5 +41,3 @@ jupyter notebook
 * Keep `vader_table1.csv` and `ready.txt` in the same folder as the notebook, otherwise file paths will break.
 
 ```
-::contentReference[oaicite:0]{index=0}
-```
