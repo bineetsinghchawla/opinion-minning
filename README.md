@@ -1,5 +1,3 @@
-Open README.md in the repo root and paste ALL of this:
-
 # Opinion Mining & Sentiment Analysis (LinkedIn Reviews)
 
 This project performs opinion mining (sentiment analysis) on LinkedIn review text using:
