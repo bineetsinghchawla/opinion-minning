@@ -1,4 +1,3 @@
-````md
 # Opinion Mining & Sentiment Analysis (LinkedIn Reviews)
 
 This repository contains an opinion mining (sentiment analysis) project on LinkedIn review text using NLP techniques and VADER sentiment scoring, along with deep learning model experiments.
